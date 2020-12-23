@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Main-Class: com.lendo.PlayBlackJack
+Class-Path: junit-4.12.jar hamcrest-core-1.3.jar junit-jupiter-5.4.2.jar
+  junit-jupiter-api-5.4.2.jar apiguardian-api-1.0.0.jar opentest4j-1.1.1
+ .jar junit-platform-commons-1.4.2.jar junit-jupiter-params-5.4.2.jar ju
+ nit-jupiter-engine-5.4.2.jar junit-platform-engine-1.4.2.jar mockito-al
+ l-1.9.1-20110911.jar
+
